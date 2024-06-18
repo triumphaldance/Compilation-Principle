@@ -1,0 +1,9 @@
+digraph MinDFA {
+	rankdir=LR;
+	node [shape=circle];
+	s -> 0
+	0 -> <0> [label="a"];
+	0 [shape=doublecircle];
+	0 -> <0> [label="b"];
+	0 [shape=doublecircle];
+}

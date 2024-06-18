@@ -1,0 +1,3 @@
+S -> a T a R | R
+T -> T R a | b
+R -> T

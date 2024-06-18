@@ -1,0 +1,14 @@
+E -> E + T | T
+T -> T * F | F
+F -> ( E ) | i
+i+i*i
+
+S -> a b c B | a b c C | a b D
+
+E -> T | E + T | E - T
+T -> F | T * F | T / F
+F -> ( E ) | i
+
+S -> A a S | B b S | d
+A -> a
+B -> ε | e
