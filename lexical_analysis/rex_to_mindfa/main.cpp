@@ -28,7 +28,7 @@ int main()
 
 	/*测试样例3*/
 
-	string str = "a*(a*|b*)*|a*";
+	string str = "a*(b|a)a(a|b)*";
 	// string str;
 	// cout << "请输入正则表达式: ";
 	// cin >> str;

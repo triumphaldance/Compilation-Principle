@@ -1,4 +1,4 @@
-#include"rex_to_nfa.h"
+#include "rex_to_nfa.h"
 /********************NFA转DFA********************/
 
 struct Edge			/*定义DFA的转换弧*/

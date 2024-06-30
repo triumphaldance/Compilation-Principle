@@ -1,2 +1,4 @@
 # Ignore all .idea folder
 **/.idea/
+**/.vscode/
+**/tempCodeRunnerFile.cpp
